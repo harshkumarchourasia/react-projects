@@ -7,3 +7,4 @@ Red
 Yellow
 These are the colors of the rainbow
 adding some intresting changes
+more intresting lines
